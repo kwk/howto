@@ -9,7 +9,7 @@ cd ~
 mkdir repo
 ```
 
-Note: If you are sharing this with many users, you make want to do this as root and in the `/var` directory.
+Note: If you are sharing this with many users, you may want to do this as root and in the `/var` directory.
 
 2. Install the tool needed to create repos...
 
